@@ -1,0 +1,28 @@
+# Android/Java
+/build/
+/captures/
+.externalNativeBuild/
+.gradle/
+.idea/
+.vscode/
+*.iml
+*.apk
+*.ap_*
+*.dex
+*.class
+*.log
+/local.properties
+.DS_Store
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+Credentials.json
+
+# Large data
+*.osm.pbf
+*.map
+*.bin
+maps/
